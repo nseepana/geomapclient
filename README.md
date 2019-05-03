@@ -20,7 +20,4 @@ Using [npm](https://www.npmjs.com/):
     Middleware [Redux Thunk] (https://www.npmjs.com/package/redux-thunk)
     Promise based HTTP client [axios] (https://www.npmjs.com/package/axios)
 
-## Backend Stack
-    nodejs
-    mongodb
-    ...
+
