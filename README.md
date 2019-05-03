@@ -1,7 +1,7 @@
-Add Location
+Geomapclient
 =============
 
-Add Location
+Geomapclient
 
 
 ## Installation
