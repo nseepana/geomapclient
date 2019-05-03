@@ -14,12 +14,6 @@ Using [npm](https://www.npmjs.com/):
 
     gmap$  npm run start:dev
 
-## Run server 
-    
-    To do CRUD operations, HTTP Server required
-    gmapserver$ npm start
-
-
 ## Frontend Stack
     DOM Library [React](https://reactjs.org)
     State manager [Redux](https://redux.js.org)
