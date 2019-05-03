@@ -1,7 +1,6 @@
 {
   "name": "geomapclient",
   "version": "0.0.1",
-  "private": true,
   "devDependencies": {
     "env-cmd": "^8.0.2",
     "react-scripts": "^3.0.0"
